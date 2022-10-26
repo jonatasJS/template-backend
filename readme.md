@@ -1,6 +1,6 @@
 # Example BackEnd API
 
-<h2 style="border: 0;">Live a <a href="https://github.com/jonatasJS/template-backend">demo</a> (Future)</h2>
+<p style="border: 0;font-size: 2em;font-weight: 600;">Live a <a href="https://github.com/jonatasJS/template-backend">demo</a> (Future)</p>
 
 <h1>Get started</h2>
 
