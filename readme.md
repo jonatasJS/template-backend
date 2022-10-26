@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82308b13-bfa9-4f27-abc4-11bfb377e666/deploy-status)](https://app.netlify.com/sites/singular-jelly-783239/deploys)
